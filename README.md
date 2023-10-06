@@ -1,1 +1,0 @@
-# neosuite-docs-common
