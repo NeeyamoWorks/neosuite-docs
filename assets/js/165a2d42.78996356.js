@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc_website=self.webpackChunkdoc_website||[]).push([[7310],{2762:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/neosuite-docs/blog/tags/facebook","allTagsPath":"/neosuite-docs/blog/tags","count":1}')}}]);
