@@ -28,3 +28,32 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+/* custom.css */
+.custom-content {
+  display: flex;
+  justify-content: space-between;
+}
+.custom-content-item {
+  flex-basis: 30%;
+   padding: 10px;
+}
+.custom-content-item a img{
+	width: 100% !important;
+	/*  height: 100% !important;*/
+}
+/* custom.css */
+.custom-card {
+  display: flex;
+  justify-content: space-between;
+}
+
+.custom-card-panel {
+  flex-basis: 30%;
+  background-color: #f0f0f0;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+.custom-card-panel p {
+color: #00000096 !important;
+}

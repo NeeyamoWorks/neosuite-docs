@@ -77,13 +77,18 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
+		{ to: '/blog', label: 'Blog', posion: 'left'},
+		{ to: '/solutions', label: 'Solutions', position: 'left' },
+		{ to: '/resources', label: 'Resources', position: 'left' },
+		{ to: '/partner-network', label: 'Partner Network', position: 'left' },
+		{ to: '/customer-enablement', label: 'Customer Enablement', position: 'left' },
+		{ to: '/event', label: 'Event', position: 'left' },
+        {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
-          },
-        ],
+         },
+       ],
       },
       footer: {
         style: 'dark',
