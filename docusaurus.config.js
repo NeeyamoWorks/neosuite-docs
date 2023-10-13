@@ -68,7 +68,7 @@ const config = {
         title: 'Neosuite',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/Neosuite_logo.svg',
         },
         items: [
           {

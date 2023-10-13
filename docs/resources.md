@@ -1,7 +1,7 @@
 ---
 id: resources
-title: Resources
 sidebar_position: 6
+title: Resources
 ---
 
 # Resources
