@@ -6,7 +6,7 @@ sidebar_position: 4
 ---
 
 # Neosuite
-![Docusaurus logo](/img/docusaurus.png)
+![Docusaurus logo](/img/Neosuite_logo.svg)
 
 
 Welcome to our HR Services Framework within Neosuite. Our comprehensive framework offers a wide range of features and tools designed to streamline and enhance your HR management and employee experience.
