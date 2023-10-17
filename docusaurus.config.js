@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Neosuite',
   tagline: 'Autonomous Global Payroll   Now, a Reality!',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/Neosuite_logo.svg',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-test-site.com',
