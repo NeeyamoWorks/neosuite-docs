@@ -14,12 +14,12 @@ const config = {
   url: 'https://your-docusaurus-test-site.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/neosuite-docs/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'NeeyamoWorks', // Usually your GitHub org/user name.
-  projectName: 'neosuite-docs', // Usually your repo name.
+  projectName: 'neeyamoworks.github.io', // Usually your repo name.
   deploymentBranch:"gh-pages",
   trailingSlash: false,
   onBrokenLinks: 'throw',
