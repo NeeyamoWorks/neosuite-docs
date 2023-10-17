@@ -1,7 +1,6 @@
 ---
 sidebar_position: 2
 sidebar_label: About
-slug: /about-us
 ---
 
 # About Us

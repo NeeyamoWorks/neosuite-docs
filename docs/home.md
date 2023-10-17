@@ -1,10 +1,8 @@
 ---
-id: home
 sidebar_position: 1
 title: Home
+sidebar_label: Home
 ---
-
-## Homepage
 
 ### Header and Navigation
 

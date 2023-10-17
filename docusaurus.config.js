@@ -75,7 +75,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentation',
           },
 		{ to: '/blog', label: 'Blog', posion: 'left'},
 		{ to: '/solutions', label: 'Solutions', position: 'left' },
@@ -83,6 +83,12 @@ const config = {
 		{ to: '/partner-network', label: 'Partner Network', position: 'left' },
 		{ to: '/customer-enablement', label: 'Customer Enablement', position: 'left' },
 		{ to: '/event', label: 'Event', position: 'left' },
+		{
+          to: '/login',
+          label: 'Sign in',
+          position: 'right',
+          className: 'button button--secondary button--lg'
+        },
         {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
