@@ -80,20 +80,22 @@ const config = {
             position: 'left',
             label: 'Documentation',
           },
-		{ to: '/blog', label: 'Blog', posion: 'left'},
-		{ to: '/solutions', label: 'Solutions', position: 'left' },
-		{ to: '/resources', label: 'Resources', position: 'left' },
-		{ to: '/partner-network', label: 'Partner Network', position: 'left' },
-		{ to: '/customer-enablement', label: 'Customer Enablement', position: 'left' },
-		{ to: '/event', label: 'Event', position: 'left' },
-		{
-          to: '/login',
-          label: 'Sign in',
-          position: 'right',
-          className: 'button button--secondary button--lg'
-        },
+         { to: '/api', label: 'API', position: 'left' },
+		
+		    { to: '/blog', label: 'Blog', posion: 'left'},
+		    { to: '/solutions', label: 'Solutions', position: 'left' },
+		    { to: '/resources', label: 'Resources', position: 'left' },
+		    { to: '/partner-network', label: 'Partner Network', position: 'left' },
+		    { to: '/customer-enablement', label: 'Customer Enablement', position: 'left' },
+		    { to: '/event', label: 'Event', position: 'left' },
+		    {
+           to: '/login',
+           label: 'Sign in',
+           position: 'right',
+           className: 'button button--secondary button--lg'
+         },
         {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/NeeyamoWorks',
             label: 'GitHub',
             position: 'right',
          },
@@ -106,7 +108,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Documentation',
                 to: '/docs/intro',
               },
             ],
@@ -116,15 +118,15 @@ const config = {
             items: [
               {
                 label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'https://stackoverflow.com/questions/tagged/neosuite',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discordapp.com/invite/neosuite',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/neosuite',
               },
             ],
           },
@@ -137,12 +139,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/NeeyamoWorks/',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} neeyamoworks.github.io, Inc. Built with Neeyamo.`,
       },
       prism: {
         theme: lightCodeTheme,
