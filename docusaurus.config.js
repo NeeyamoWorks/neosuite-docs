@@ -7,11 +7,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Neosuite',
-  tagline: 'Autonomous Global Payroll   Now, a Reality!',
+  tagline: 'Autonomous Global Payroll Now, a Reality!',
   favicon: 'img/Neosuite_logo.svg',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://neosuite-uat.neeyamo.works',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
