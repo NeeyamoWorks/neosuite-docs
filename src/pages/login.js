@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import Layout from '@theme/Layout';
 
 const Login = () => {
 	const [inputValue, setInputValue] = useState('');
@@ -23,6 +24,7 @@ const Login = () => {
 	};
 
 	return (
+		<Layout title="login" >
 		<div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', height: '300px', alignItems: 'center' }}>
 
 			<div>
@@ -39,7 +41,7 @@ const Login = () => {
 						<p>Response from the server: {JSON.stringify(responseData)}</p>
 					)}
 				</div>
-			</div></div>
+			</div></div></Layout>
 	);
 };
 
