@@ -1,41 +1,40 @@
-# Website
+# Neosuite Documentation
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-### Installation
+Welcome to our HR Services Framework within Neosuite. Our comprehensive framework offers a wide range of features and tools designed to streamline and enhance your HR management and employee experience.
 
-```
-$ yarn
-```
 
-### Local Development
 
-```
-$ yarn start
-```
+### 1. HR Tools
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+Our HR Tools are tailored to meet your HR management needs. You can access various HR services, including time tracking, ticket raising, label translation, and more, all within a single unified platform.
 
-### Build
+### 2. Notifications
 
-```
-$ yarn build
-```
+Stay informed with our notification system. Receive real-time updates, announcements, and alerts related to HR matters, ensuring you're always in the loop.
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+### 3. App Delegation
 
-### Deployment
+We understand that flexibility is crucial. With our App Delegation feature, you can delegate access to specific HR tools or applications to other users for a defined period. This enables seamless workflow continuity even when you're unavailable.
 
-Using SSH:
+### 4. Custom Themes
 
-```
-$ USE_SSH=true yarn deploy
-```
+Personalize your HR services experience with our selection of custom themes. Choose from different color schemes to suit your preferences and make the platform your own.
 
-Not using SSH:
+### 5. Multilingual Support
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
+We support a diverse workforce. Our framework offers multiple language options, ensuring that users can interact with the platform in their preferred language.
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+### 6. Strong Authentication
+
+Your security is our top priority. Our HR Services Framework employs robust authentication through Keycloak, providing you with a secure and reliable environment for managing HR operations.
+
+## Getting Started
+
+Ready to explore our HR Services Framework? Log in to your account to access a world of HR management tools, enhanced communication, and the flexibility you need to manage your HR responsibilities effectively.
+
+## Have Questions?
+
+If you have any questions or need assistance with our HR Services Framework, please don't hesitate to reach out to our support team. We're here to help you make the most of our platform.
+
+Thank you for choosing our HR Services Framework within Neosuite. We look forward to helping you achieve your HR management goals.
