@@ -1,3 +1,6 @@
+---
+title: Solutions
+---
 <div class="custom-content">
   <div class="custom-content-item">
     <a href="https://www.neeyamo.com/solutions">

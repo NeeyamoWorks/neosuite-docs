@@ -1,5 +1,5 @@
 ---
-title: Resources page example
+title: Resources
 ---
 
 
